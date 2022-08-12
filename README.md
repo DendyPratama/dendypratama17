@@ -1,9 +1,13 @@
-# Project Title
+# Project description
 
 One Paragraph of the project description
 
-Initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
+Python language bindings for Selenium WebDriver.
+
+The selenium package is used to automate web browser interaction from Python.
+
+Supported Python Versions
+Python 3.7+
 
 ## Getting Started
 
