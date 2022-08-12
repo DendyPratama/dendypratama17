@@ -32,6 +32,8 @@ List Installed
 
      pip list
 
+Add Python to your Windows Path. Path itself is an Environment Variable
+
 ## Running the tests
 
 How to run automated tests for this system
