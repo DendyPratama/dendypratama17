@@ -12,9 +12,10 @@ for notes on deploying the project on a live system.
 ### Prerequisites
 
 Requirements for the software and other tools to build, test and push 
-- [Supported Python Versions Python 3.10.6](https://www.python.org/downloads/release/python-3106/)
-- [Example 2](https://www.example.com)
-
+- [Download Visual Stduio Code](https://code.visualstudio.com/download)
+- [Download Python Supported Versions Python 3.10.6](https://www.python.org/downloads/release/python-3106/)
+- [Download the webdriver according to the version of chrome you are using](https://chromedriver.chromium.org/downloads)
+- 
 ### Installing
 
 A step by step series of examples that tell you how to get a development
