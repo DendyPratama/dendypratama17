@@ -10,7 +10,7 @@ Requirements for the software and other tools to build, test and push
 - [Download Python Supported Versions 3.10.6](https://www.python.org/downloads/release/python-3106/) (Add Python to the PATH Environmental Variable)
 - [Download the webdriver according to the version of chrome you are using](https://chromedriver.chromium.org/downloads)
 
-## Installing From CMD (Command Prompt)
+## Installing from CMD (Command Prompt)
 
 Install Selenium 
 
