@@ -15,7 +15,7 @@ Requirements for the software and other tools to build, test and push
 - [Download Visual Stduio Code](https://code.visualstudio.com/download)
 - [Download Python Supported Versions Python 3.10.6](https://www.python.org/downloads/release/python-3106/)
 - [Download the webdriver according to the version of chrome you are using](https://chromedriver.chromium.org/downloads)
-- 
+
 ### Installing
 
 A step by step series of examples that tell you how to get a development
