@@ -34,12 +34,10 @@ List Installed
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+How to run automated tests for this system
 
-### Sample Tests
-
-Explain what these tests test and why
+## Sample Tests
 
     pytest namafile.py -v --html=report.html
 
-### Good Luck :)
+## Good Luck :)
