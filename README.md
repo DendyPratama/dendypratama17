@@ -6,7 +6,7 @@ The selenium package is used to automate web browser interaction from Python.
 ### Prerequisites
 
 Requirements for the software and other tools to build, test and push 
-- [Download Visual Studuio Code](https://code.visualstudio.com/download)
+- [Download Visual Studio Code](https://code.visualstudio.com/download)
 - [Download Python Supported Versions 3.10.6](https://www.python.org/downloads/release/python-3106/) (Add Python to the PATH Environmental Variable)
 - [Download the webdriver according to the version of chrome you are using](https://chromedriver.chromium.org/downloads)
 
