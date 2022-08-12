@@ -1,5 +1,3 @@
-# dendypratama17
-Report Testing Automation 
 # Project Title
 
 One Paragraph of the project description
