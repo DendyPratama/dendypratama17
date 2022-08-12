@@ -16,14 +16,11 @@ Requirements for the software and other tools to build, test and push
 - [Download Python Supported Versions Python 3.10.6](https://www.python.org/downloads/release/python-3106/)
 - [Download the webdriver according to the version of chrome you are using](https://chromedriver.chromium.org/downloads)
 
-### Installing
+### Installing From CMD (Command Prompt)
 
-A step by step series of examples that tell you how to get a development
-environment running
+Install Selenium Version 4.2.0
 
-Say what the step will be
-
-    Give the example
+    pip install selenium==4.2.0
 
 And repeat
 
