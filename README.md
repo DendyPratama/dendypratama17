@@ -1,13 +1,7 @@
 # Project description
 
-One Paragraph of the project description
-
 Python language bindings for Selenium WebDriver.
-
 The selenium package is used to automate web browser interaction from Python.
-
-Supported Python Versions
-Python 3.7+
 
 ## Getting Started
 
@@ -18,7 +12,7 @@ for notes on deploying the project on a live system.
 ### Prerequisites
 
 Requirements for the software and other tools to build, test and push 
-- [Example 1](https://www.example.com)
+- [Supported Python VersionsPython 3.10.6](https://www.example.com)
 - [Example 2](https://www.example.com)
 
 ### Installing
