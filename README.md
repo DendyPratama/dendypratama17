@@ -34,8 +34,8 @@ List Installed
 
 ## Add Python to your Windows Path. Path itself is an Environment Variable
 
-## Running the tests
+## Running Code in Visual Studio Code
 
     pytest namafile.py -v --html=report.html
 
-##<center>Good Luck :)</center>
+`##Good Luck :)`
