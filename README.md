@@ -12,7 +12,7 @@ for notes on deploying the project on a live system.
 ### Prerequisites
 
 Requirements for the software and other tools to build, test and push 
-- [Download Visual Stduio Code](https://code.visualstudio.com/download)
+- [Download Visual Studuio Code](https://code.visualstudio.com/download)
 - [Download Python Supported Versions Python 3.10.6](https://www.python.org/downloads/release/python-3106/)
 - [Download the webdriver according to the version of chrome you are using](https://chromedriver.chromium.org/downloads)
 
@@ -41,9 +41,6 @@ Install Pytest HTML Reporter
 List Installed
 
      pip list
-     
-End with an example of getting some data out of the system or using it
-for a little demo
 
 ## Running the tests
 
