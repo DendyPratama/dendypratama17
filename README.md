@@ -12,7 +12,7 @@ for notes on deploying the project on a live system.
 ### Prerequisites
 
 Requirements for the software and other tools to build, test and push 
-- [Supported Python VersionsPython 3.10.6](https://www.example.com)
+- [Supported Python Versions Python 3.10.6](https://www.python.org/downloads/release/python-3106/)
 - [Example 2](https://www.example.com)
 
 ### Installing
