@@ -10,7 +10,7 @@ Requirements for the software and other tools to build, test and push
 - [Download Python Supported Versions 3.10.6](https://www.python.org/downloads/release/python-3106/)
 - [Download the webdriver according to the version of chrome you are using](https://chromedriver.chromium.org/downloads)
 
-### Installing From CMD (Command Prompt)
+# Installing From CMD (Command Prompt)
 
 Install Selenium 
 
@@ -32,14 +32,10 @@ List Installed
 
      pip list
 
-Add Python to your Windows Path. Path itself is an Environment Variable
+# Add Python to your Windows Path. Path itself is an Environment Variable
 
-## Running the tests
-
-How to run automated tests for this system
-
-## Sample Tests
+# Running the tests
 
     pytest namafile.py -v --html=report.html
 
-## Good Luck :)
+# Good Luck :)
