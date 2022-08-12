@@ -32,10 +32,10 @@ List Installed
 
      pip list
 
-## Add Python to your Windows Path. Path itself is an Environment Variable
+## Add Python to the PATH Environmental Variable
 
 ## Running Code in Visual Studio Code
 
     pytest namafile.py -v --html=report.html
 
-##Good Luck :)
+## Good Luck :)
