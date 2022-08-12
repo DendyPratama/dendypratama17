@@ -3,12 +3,6 @@
 Python language bindings for Selenium WebDriver.
 The selenium package is used to automate web browser interaction from Python.
 
-## Getting Started
-
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
-
 ### Prerequisites
 
 Requirements for the software and other tools to build, test and push 
@@ -25,10 +19,6 @@ Install Selenium
 Install Pyautogui
 
     pip install pyautogui==0.9.53
-
-Install Pytest
-
-    pip install pytest==6.2.5
 
 Install Pytest
 
