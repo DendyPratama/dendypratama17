@@ -1,4 +1,4 @@
-# Project Description
+# Vendor Management System
 
 Python language bindings for Selenium WebDriver.
 The selenium package is used to automate web browser interaction from Python.
