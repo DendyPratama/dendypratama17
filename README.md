@@ -19,9 +19,13 @@ Check Npm Version
 
     npm -v
 
+Check Chrome Driver Version
+
+    chromedriver --version
+
 Install Package
 
-    npm init -y
+    npm init -y 
     
 Install Package
 
