@@ -27,7 +27,7 @@ Install Package
 
     npm init -y 
     
-#
+Install Package
 
     npm init wdio 
 
