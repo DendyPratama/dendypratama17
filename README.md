@@ -13,16 +13,19 @@ Requirements for the software and other tools to build and test
 
 Install Package 
 
-    npm init -y
+    node -v
 
 Install Package
 
-    npm init wdio . -- --yes
+    npm -v
 
 Install Pytest
 
-    pip install pytest==6.2.5
-  
+    npm init -y
+    
+Install Pytest
+
+    npm init wdio . -- --yes
 
 ## Running Code in Visual Studio Code
 
