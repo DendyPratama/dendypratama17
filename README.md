@@ -1,7 +1,6 @@
-# Vendor Management System
+# HRIS ATS
 
-Python language bindings for Selenium WebDriver.
-The selenium package is used to automate web browser interaction from Python.
+WebdriverIO is a test automation framework, for e2e as well as unit and component testing in the browser.
 
 ### Prerequisites
 
