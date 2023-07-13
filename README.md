@@ -11,23 +11,24 @@ Requirements for the software and other tools to build and test
 
 ## Project Setup & WebdriverIO Installation
 
-
-Install Package 
+Check Version Node 
 
     node -v
 
-Install Package
+Check Version Npm
 
     npm -v
 
-Install Pytest
+Install Package
 
     npm init -y
     
-Install Pytest
+Install Package
 
-    npm init wdio . -- --yes
+    npm init wdio 
 
 Running Code in Visual Studio Code
 
     npm run wdio
+
+## Thanks
