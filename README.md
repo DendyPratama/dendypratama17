@@ -15,7 +15,7 @@ Requirements for the software and other tools to build and test
 - [Download Node JS](https://nodejs.org/en/download) 
 - [Download Chromedriver According to Chrome Version](https://chromedriver.chromium.org/downloads) 
 
-## Project Setup & WebdriverIO Installation
+## WebdriverIO Installation from CMD (Command Prompt)
 
 Check Node Version
 
