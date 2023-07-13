@@ -27,8 +27,6 @@ Install Pytest
 
     npm init wdio . -- --yes
 
-## Running Code in Visual Studio Code
+Running Code in Visual Studio Code
 
     npm run wdio
-
-
