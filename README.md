@@ -11,11 +11,11 @@ Requirements for the software and other tools to build and test
 
 ## Project Setup & WebdriverIO Installation
 
-Check Version Node 
+Check Node Version
 
     node -v
 
-Check Version Npm
+Check Npm Version
 
     npm -v
 
