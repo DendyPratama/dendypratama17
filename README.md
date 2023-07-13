@@ -35,4 +35,4 @@ Running Code in Visual Studio Code
 
     npm run wdio
 
-## Thanks
+## Thanks ✨
