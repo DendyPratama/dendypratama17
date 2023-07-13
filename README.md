@@ -11,7 +11,6 @@ Automation plays a vital role in maintaining the quality and effectiveness of so
 ### Prerequisites
 
 Requirements for the software and other tools to build and test
-- [Download Visual Studio Code](https://code.visualstudio.com/download)
 - [Download Node JS](https://nodejs.org/en/download) 
 
 ## Newman Installation from CMD (Command Prompt)
