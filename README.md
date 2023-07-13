@@ -2,43 +2,30 @@
 
 ### About
 
-HRIS ATS is a project designed to automate the testing process for a Human Resource Information System's Applicant Tracking System (ATS). It utilizes the power of WebdriverIO, a comprehensive test automation framework, to facilitate end-to-end (e2e) as well as unit and component testing in the browser.
+HRIS ATS is a project aimed at automating the testing process for a Human Resource Information System's Applicant Tracking System (ATS). Leveraging the power of Newman, a popular automation tool, we can efficiently automate the testing of our ATS application's APIs and ensure its functionality and reliability.
 
-### Test Automation with WebdriverIO
+### Test Automation with Newman
 
-Automation plays a crucial role in ensuring the quality and reliability of software systems. With WebdriverIO, we can streamline and enhance our testing efforts by automating various interactions within the HRIS ATS application.
+Automation plays a vital role in maintaining the quality and effectiveness of software systems. By utilizing Newman, we can streamline and enhance our testing efforts by automating the execution of API tests within the HRIS ATS application. Newman enables us to make API calls, validate responses, and assess the integration and functionality of our ATS system.
 
 ### Prerequisites
 
 Requirements for the software and other tools to build and test
 - [Download Visual Studio Code](https://code.visualstudio.com/download)
 - [Download Node JS](https://nodejs.org/en/download) 
-- [Download Chromedriver According to Chrome Version](https://chromedriver.chromium.org/downloads) 
 
-## WebdriverIO Installation from CMD (Command Prompt)
+## Newman Installation from CMD (Command Prompt)
 
-Check Node Version
+Install Newman
 
-    node -v
+    npm install -g newman
 
-Check Npm Version
+Check Newman Version
 
-    npm -v
+    newman -v
 
-Check Chrome Driver Version
+Running Collection in CMD
 
-    chromedriver -v
-
-Install Package
-
-    npm init -y 
-    
-Install Package
-
-    npm init wdio 
-
-Running Code in Visual Studio Code
-
-    npm run wdio
+    npm run <postman collection>
 
 ### Thanks You✨
