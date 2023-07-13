@@ -1,6 +1,6 @@
-# HRIS ATS
+# HRIS ATS (Human Resource Information System - Applicant Tracking System)
 
-WebdriverIO is a test automation framework, for e2e as well as unit and component testing in the browser.
+HRIS ATS is a project designed to automate the testing process for a Human Resource Information System's Applicant Tracking System (ATS). It utilizes the power of WebdriverIO, a comprehensive test automation framework, to facilitate end-to-end (e2e) as well as unit and component testing in the browser.
 
 ### Prerequisites
 
