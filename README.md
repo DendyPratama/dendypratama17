@@ -21,7 +21,7 @@ Check Npm Version
 
 Check Chrome Driver Version
 
-    chromedriver --version
+    chromedriver -v
 
 Install Package
 
