@@ -23,7 +23,7 @@ Check Newman Version
 
     newman -v
 
-Running Collection in CMD
+Running Collection with Newman
 
     npm run <postman collection>
 
