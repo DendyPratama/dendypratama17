@@ -26,8 +26,6 @@ Check Chrome Driver Version
 Install Package
 
     npm init -y 
-    
-Install Package
 
     npm init wdio 
 
