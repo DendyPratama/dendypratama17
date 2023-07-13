@@ -31,4 +31,4 @@ Install Pytest
 
     npm run wdio
 
-## Good Luck :)
+## Thanks You
